@@ -1,8 +1,12 @@
- 🔹https://bit.ly/YouTube-KE
- 🔹https://instagram.com/kingester23/
- 🔹https://twitter.com/KiinGesteR
- 🔹https://twitch.tv/kiingester
- 🔹https://discord.gg/JxMJ6TEWfz
+ Author : KinGesteR#9403 `In Discord`
+ Host : https://autocode.com/ `Free Host`
+ Lib : Private autocode library
+ Create slash command in autocode.com : https://autocode.com/tools/discord/command-builder/
+
+
+  My YouTube:
+🔹https://bit.ly/YouTube-KE
+ 
 
 You can only write this codes in https://autocode.com/
 
