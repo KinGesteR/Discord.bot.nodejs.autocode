@@ -1,6 +1,6 @@
 {
-  "name": "kingbotsocial",
-  "author": "Scott Gamble <scott@threesided.ca>",
+  "name": "Your-bot-name",
+  "author": "Your-name",
   "publish": false,
   "dependencies": {
     "lib": "latest"
