@@ -1,11 +1,11 @@
- Author : KinGesteR#9403 `In Discord`
- Host : https://autocode.com/ `Free Host`
- Lib : Private autocode library
- Create slash command in autocode.com : https://autocode.com/tools/discord/command-builder/
+ Author : KinGesteR#9403 `In Discord`.
+ Host : https://autocode.com/ `Free Host`.
+ Lib : Private autocode library.
+ Create slash command in autocode.com : https://autocode.com/tools/discord/command-builder/ .
 
 
   My YouTube:
-🔹https://bit.ly/YouTube-KE
+🔹https://bit.ly/KinGesteR-YT
  
 
 You can only write this codes in https://autocode.com/
