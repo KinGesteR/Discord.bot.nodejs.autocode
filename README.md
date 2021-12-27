@@ -1,8 +1,8 @@
- 🔹https://bit.ly/YouTube-KE\n
- 🔹https://instagram.com/kingester23/\n
- 🔹https://twitter.com/KiinGesteR\n
- 🔹https://twitch.tv/kiingester\n
- 🔹https://discord.gg/JxMJ6TEWfz\n
+ 🔹https://bit.ly/YouTube-KE
+ 🔹https://instagram.com/kingester23/
+ 🔹https://twitter.com/KiinGesteR
+ 🔹https://twitch.tv/kiingester
+ 🔹https://discord.gg/JxMJ6TEWfz
 
 You can only write this codes in https://autocode.com/
 
