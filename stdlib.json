@@ -1,0 +1,17 @@
+{
+  "name": "kingester3/kingbotsocial",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/social.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/ping.js": {
+      "name": "discord.message.create"
+    },
+    "functions/events/discord/message/help.js": {
+      "name": "discord.message.create"
+    }
+  },
+  "env": []
+}

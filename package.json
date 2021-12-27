@@ -1,0 +1,8 @@
+{
+  "name": "kingbotsocial",
+  "author": "Scott Gamble <scott@threesided.ca>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
