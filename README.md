@@ -6,12 +6,6 @@
 
  Create slash command in autocode.com : https://autocode.com/tools/discord/command-builder/ .
 
-
-  My YouTube:
-
-🔹https://bit.ly/KinGesteR-YT
- 
-
 You can only write this codes in https://autocode.com/
 
 File location:
