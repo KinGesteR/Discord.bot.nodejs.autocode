@@ -13,9 +13,7 @@ if (message.startsWith(`?help`)) {
 ping
 social
 help
-userinfo
 \`\`\`
-Enjoy
 `,
       color: 0x0000FF,
     }
